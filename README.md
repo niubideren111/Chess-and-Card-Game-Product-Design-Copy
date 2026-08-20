@@ -1,7 +1,7 @@
 <div align="center">
 # 🎴 棋牌游戏策划文案 | 棋牌遊戲策劃文案 | 棋牌源码|牛牛源码|扎金花源码|麻将源码
 
-**斗地主 · 麻将 · 梭哈 · 扎金花 · 牛牛 · 捕鱼 · 双扣 · 电玩城**
+**斗地主 · 麻将 · 梭哈 · 扎金花 · 牛牛 · 捕鱼 · 双扣 · 电玩城。德州**
 
 [![Contact](https://img.shields.io/badge/联系-Telegram-blue.svg)](https://t.me/fox_lovemyself)
 
