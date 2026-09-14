@@ -46,6 +46,11 @@
 <img width="1285" height="723" alt="6B40260C702412345EDC614547EC5A0B" src="https://github.com/user-attachments/assets/386da314-64c0-4e08-93ac-69a3e11424f4" />
 <img width="1962" height="1496" alt="3CB18675AF5896125E6ECE959A993B71" src="https://github.com/user-attachments/assets/78e42cd1-f96f-4084-9138-9868be65b58a" />
 <img width="2043" height="1157" alt="1A53FCB46E6723A636D3D7051CD4BB78" src="https://github.com/user-attachments/assets/ae2324a5-46d0-4146-b5a8-5263a31244a3" />
+![棋牌游戏配置表与数值设计文档](docs/assets/seo/chess-and-card-game-product-design-copy-01.jpg)
+![牌桌交互原型与操作按钮布局](docs/assets/seo/chess-and-card-game-product-design-copy-02.jpg)
+![棋牌游戏字段表与规则设计文档](docs/assets/seo/chess-and-card-game-product-design-copy-03.jpg)
+
+
 ---
 
 ## ✨ 文案包含的内容 | 文案包含的內容 | What's Included
@@ -85,14 +90,15 @@ hess-and-Card-Game-Product-Design-Copy/
 
 ---
 
-## 📞 获取完整文案 | 獲取完整文案 | How to Get
+## 相关项目
 
-如需获取**完整的棋牌游戏策划文案（全部游戏 + 完整文档）**，请联系：
+- [Fishing-Game-Art-Assets](https://github.com/niubideren111/Fishing-Game-Art-Assets)
+- [Texas-Hold-em-source-code](https://github.com/niubideren111/Texas-Hold-em-source-code)
 
-| 渠道 | 账号 |
-|:---|:---|
-| **Telegram** | @fox_lovemyself |
+## 项目咨询
 
+- Telegram：[fox_lovemyself](https://t.me/fox_lovemyself)
+- GitHub：[棋牌游戏策划文案](https://github.com/niubideren111/Chess-and-Card-Game-Product-Design-Copy)
 ---
 
 ## ❓ 常见问题 | 常見問題 | FAQ
